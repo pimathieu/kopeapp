@@ -69,7 +69,7 @@ The suite includes tools tailored to address critical cooperative functions such
 
 ### License
 
-This project is licensed under the [MIT License](./LICENSE). See the LICENSE file for details.
+This project is licensed under the [MIT License](./LICENSE.md). See the LICENSE file for details.
 
 ---
 
