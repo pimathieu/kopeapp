@@ -1,6 +1,6 @@
 # KopeApp
 
-[English Version](#english-version)
+[Version Française](#Aperçu)
 
 ### Overview
 
@@ -10,12 +10,12 @@ The suite includes tools tailored to address critical cooperative functions such
 
 ### Features
 
-#### 1. KopeCloud
+#### 1. KopeKloud
 
 - Modernizes cooperative data systems by migrating them to the cloud.
 - Enhances data accessibility, security, and scalability.
 
-#### 2. KopeKach
+#### 2. KopeKash
 
 - Functions like Zelle, allowing instant money transfers within the same cooperative.
 - Secure with PIN and biometric authentication.
@@ -30,7 +30,7 @@ The suite includes tools tailored to address critical cooperative functions such
 - Manages international money transfers from countries like the US, Canada, France, and South America to local cooperative accounts.
 - Ensures real-time tracking for both members and administrators.
 
-#### 5. KopeBil
+#### 5. KopeBill
 
 - Enables members to pay bills (e.g., internet, phone) directly from their cooperative accounts.
 
@@ -73,7 +73,7 @@ This project is licensed under the [MIT License](./LICENSE.md). See the LICENSE 
 
 ---
 
-[Version Française](#version-française)
+[English Version](#Overview) 
 
 ### Aperçu
 
@@ -83,12 +83,12 @@ La suite comprend des outils conçus pour répondre aux fonctions critiques des 
 
 ### Fonctionnalités
 
-#### 1. KopeCloud
+#### 1. KopeKloud
 
 - Modernise les systèmes de données des coopératives en les migrés vers le cloud.
 - Améliore l'accessibilité, la sécurité et la scalabilité des données.
 
-#### 2. KopeKach
+#### 2. KopeKash
 
 - Fonctionne comme Zelle, permettant des transferts d’argent instantanés au sein d’une même coopérative.
 - Sécurisé avec un code PIN et une authentification biométrique.
@@ -103,7 +103,7 @@ La suite comprend des outils conçus pour répondre aux fonctions critiques des 
 - Gère les transferts d'argent internationaux depuis des pays comme les États-Unis, le Canada, la France et l’Amérique du Sud vers les comptes locaux des coopératives.
 - Offre un suivi en temps réel pour les membres et les administrateurs.
 
-#### 5. KopeBil
+#### 5. KopeBill
 
 - Permet aux membres de payer leurs factures (internet, téléphone) directement depuis leurs comptes coopératifs.
 
